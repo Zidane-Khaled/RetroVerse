@@ -1,0 +1,5 @@
+{
+  "name": "Minimal NES",
+  "description": "Minimalist NES Emulator",
+  "requestFramePermissions": []
+}
